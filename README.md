@@ -77,6 +77,24 @@ Aca podemos ver unos graficos realizados para ver como esta la situacion con res
 
 ![Indicadores](https://github.com/Angeljs094/PI02-DA/blob/main/Imagenes/Indicadores.png)
 
+KPI1 :
+Tasa de Homicidios del Segundo Semestre: Esta es la tasa actual de homicidios en accidentes de tráfico. En el gráfico, se representa con un valor de 1.31 y se muestra en azul oscuro.
+Tasa de Homicidios Objetivo: Este es el objetivo de reducción de la tasa de homicidios en accidentes de tráfico. En el gráfico, se representa con un valor de 1.47 y se muestra en azul claro.
+En resumen, el gráfico muestra que la tasa de homicidios en accidentes de tráfico ha disminuido en más del 10% en comparación con el objetivo, lo que indica que las medidas de seguridad vial implementadas han sido efectivas.
+
+
+KPI2 : 
+ReducPercentualHomicMotos20-21: Esta es la reducción real en la cantidad de accidentes mortales de motociclistas. En el gráfico, se representa con un valor de 76.92 y se muestra en azul oscuro.
+TasaHomicMotoObjetivo: Este es el objetivo de reducción en la cantidad de accidentes mortales de motociclistas. En el gráfico, se representa con un valor de -36.77 y se muestra en azul claro.
+En resumen, el gráfico muestra que la cantidad de accidentes mortales de motociclistas ha disminuido en más del 36.77% en comparación con el objetivo, lo que indica que las medidas de seguridad vial implementadas han sido efectivas.
+
+KPI3 :
+El gráfico que compartiste muestra un indicador clave de rendimiento (KPI) que tenía como objetivo reducir la tasa de homicidios en las avenidas en CABA en un 8% en el último año en comparación con el año anterior.
+
+Según el gráfico, el valor de la tasa de homicidios en las avenidas aumentó de 1.42 a 1.89. Esto indica que no solo no se logró la reducción del 8%, sino que la tasa de homicidios en las avenidas en realidad aumentó.
+
+Por lo tanto, según este gráfico, el KPI no se cumplió. Esto podría deberse a una variedad de factores, y sería útil revisar las medidas de seguridad vial implementadas para entender por qué no se logró la reducción esperada.
+
 ### Conclusiones
 
 ![Conclusiones](https://github.com/Angeljs094/PI02-DA/blob/main/Imagenes/Conclusiones.png)
