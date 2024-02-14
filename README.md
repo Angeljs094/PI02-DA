@@ -71,8 +71,12 @@ Conclusiones Preliminares: Basado en estos análisis preliminares, puedo identif
 ### Vizualizaciones en Power BI
 
 Aca podemos ver unos graficos realizados para ver como esta la situacion con respecto a los accidentes de transito
-[Analisis Temporal]("Imagenes/Analisis_Temporal.png")
+[Analisis Temporal]("https://github.com/Angeljs094/PI02-DA/blob/main/Imagenes/Analisis_Temporal.png")
 
-[Analisis Categorico]("Imagenes/Analisis_Categorico.png")
+[Analisis Categorico]("https://github.com/Angeljs094/PI02-DA/blob/main/Imagenes/Analisis_Categorico.png")
 
-[Indicadores]("Imagenes/Indicadores.png")
+[Indicadores]("https://github.com/Angeljs094/PI02-DA/blob/main/Imagenes/Indicadores.png")
+
+### Conclusiones
+
+[Conclusiones]("https://github.com/Angeljs094/PI02-DA/blob/main/Imagenes/Conclusiones.png")
